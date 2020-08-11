@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.597cb6fc.chunk.js",
+    "main.js.map": "/static/js/main.597cb6fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50b5716e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50b5716e.js.map",
+    "static/js/2.106d0316.chunk.js": "/static/js/2.106d0316.chunk.js",
+    "static/js/2.106d0316.chunk.js.map": "/static/js/2.106d0316.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.15feb002ec3ba2ab2dc249c32290ea91.js": "/precache-manifest.15feb002ec3ba2ab2dc249c32290ea91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.106d0316.chunk.js.LICENSE.txt": "/static/js/2.106d0316.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan.jpg": "/static/media/nattu-adnan.c11f97a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b5716e.js",
+    "static/js/2.106d0316.chunk.js",
+    "static/js/main.597cb6fc.chunk.js"
+  ]
+}
